@@ -1,0 +1,15 @@
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\bin\Debug\net6.0\Seminar#4.exe
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\bin\Debug\net6.0\Seminar#4.deps.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\bin\Debug\net6.0\Seminar#4.runtimeconfig.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\bin\Debug\net6.0\Seminar#4.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\bin\Debug\net6.0\Seminar#4.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.csproj.AssemblyReference.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.AssemblyInfoInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.AssemblyInfo.cs
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.csproj.CoreCompileInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\refint\Seminar#4.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\Seminar#4.genruntimeconfig.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\Seminar#4\obj\Debug\net6.0\ref\Seminar#4.dll
