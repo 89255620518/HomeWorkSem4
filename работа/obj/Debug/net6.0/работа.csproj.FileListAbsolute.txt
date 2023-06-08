@@ -1,0 +1,15 @@
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\bin\Debug\net6.0\работа.exe
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\bin\Debug\net6.0\работа.deps.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\bin\Debug\net6.0\работа.runtimeconfig.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\bin\Debug\net6.0\работа.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\bin\Debug\net6.0\работа.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.csproj.AssemblyReference.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.AssemblyInfoInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.AssemblyInfo.cs
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.csproj.CoreCompileInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\refint\работа.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\работа.genruntimeconfig.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар по С#\работа\obj\Debug\net6.0\ref\работа.dll
